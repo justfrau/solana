@@ -1,0 +1,2 @@
+# solana
+bonkbot
